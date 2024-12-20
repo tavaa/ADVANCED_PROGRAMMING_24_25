@@ -62,7 +62,10 @@ This project presents an advanced Scientific Toolbox for Statistical Analysis an
 *Installation*
 
 1. **Clone or Download the Repository**  
-   Once the repository is uploaded to GitHub, clone or download it to your local machine.
+   Clone or download it to your local machine.
+   ```bash
+   https://github.com/tavaa/ADVANCED_PROGRAMMING_24-25/Homework02.git
+   ```
 
 2. **Prepare Dependencies**  
    Navigate to the `/include` directory:  
