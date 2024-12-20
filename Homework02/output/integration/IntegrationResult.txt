@@ -1,0 +1,8 @@
+RESULTS of INTEGRATION
+-------------------------------------------
+Function: sin(x)
+Lower Bound (a): 0
+Upper Bound (b): 10
+Number of Intervals (N): 2100
+Integration method: trapezoidal
+Result of approximation: 1.83907
