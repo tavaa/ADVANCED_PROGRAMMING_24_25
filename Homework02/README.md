@@ -1,6 +1,6 @@
 # Scientific Toolbox in C++ for Statistics and Integration
 
-![Scientific Toolbox Presentation Image](/assets/Scientific_toolbox_image.jpg)
+![Scientific Toolbox Presentation Image](./assets/Scientific_toolbox_image.jpg)
 
 This project contains the material for the second homework assignment of the *Advanced Programming course* for the academic year 2024-25. This course is offered jointly by SISSA (International School for Advanced Studies) and UniTS (Università degli Studi di Trieste), Trieste, Italy.
 
