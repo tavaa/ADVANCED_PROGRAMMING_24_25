@@ -64,13 +64,12 @@ This project presents an advanced Scientific Toolbox for Statistical Analysis an
 1. **Clone or Download the Repository**
    ```bash
    git clone https://github.com/tavaa/ADVANCED_PROGRAMMING_24_25.git
-   cd Homework02 
    ```
 
 3. **Prepare Dependencies**  
    Navigate to the `/include` directory:  
    ```bash
-   cd include
+   cd ADVANCED_PROGRAMMING_24_25/Homework02/include
    ```
 
 Download Boost 1.86.0 from boost.org and extract its content into this folder.
