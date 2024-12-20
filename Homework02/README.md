@@ -64,7 +64,7 @@ This project presents an advanced Scientific Toolbox for Statistical Analysis an
 1. **Clone or Download the Repository**  
    
    ```bash
-   git clone https://github.com/tavaa/ADVANCED_PROGRAMMING_24-25/Homework02.git
+   git clone https://github.com/tavaa/ADVANCED_PROGRAMMING_24_25/Homework02.git
    ```
 
 2. **Prepare Dependencies**  
