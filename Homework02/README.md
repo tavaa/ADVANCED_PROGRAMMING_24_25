@@ -61,9 +61,13 @@ This project presents an advanced Scientific Toolbox for Statistical Analysis an
 
 *Installation*
 
-1. **Clone or Download the Repository**  
+1. **Clone or Download the Repository**
+   ```bash
+   git clone https://github.com/tavaa/ADVANCED_PROGRAMMING_24_25.git
+   cd Homework02 
+   ```
 
-2. **Prepare Dependencies**  
+3. **Prepare Dependencies**  
    Navigate to the `/include` directory:  
    ```bash
    cd include
