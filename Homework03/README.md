@@ -64,7 +64,12 @@ This project presents an advanced Scientific Toolbox for Statistical Analysis an
 
    Once the repository is uploaded to GitHub, clone or download it to your local machine.
 
-2. **Build the Project**  
+   ```bash
+   git clone https://github.com/tavaa/ADVANCED_PROGRAMMING_24_25.git
+   cd ADVANCED_PROGRAMMING_24_25/Homework03/
+   ```
+
+3. **Build the Project**  
 
    In order to build the scientific_toolbox, run the bash script that works with CMakeLists.txt
 
@@ -74,7 +79,7 @@ This project presents an advanced Scientific Toolbox for Statistical Analysis an
    ```
    Once the script has been executed, you will find something like "scientific_toolbox.cpython-310-x86_64-linux-gnu.so" on the `build/src/` directory.
 
-3. **Create a Virtual Environment for your project**
+4. **Create a Virtual Environment for your project**
 
    ```python
     python3.10 -m venv venv
@@ -91,7 +96,7 @@ This project presents an advanced Scientific Toolbox for Statistical Analysis an
     deactivate
    ```
    
-4. **Install Python Dependencies**
+5. **Install Python Dependencies**
 
     ```bash
     pip install -r requirements.txt
