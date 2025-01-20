@@ -144,8 +144,8 @@ The data acquisition from the CSV file was handled using `std::optional<std::var
 
 **Authors**
 
-Tiozzo Netti Eleonora <eleonora.tiozzo@studenti.units.it>
-Tavano Matteo <matteo.tavano@studenti.units.it>
+* Tiozzo Netti Eleonora <eleonora.tiozzo@studenti.units.it>
+* Tavano Matteo <matteo.tavano@studenti.units.it>
 
 **List of contributions**
 
