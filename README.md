@@ -11,13 +11,14 @@ This project contains the material for the homework assignment of the *Advanced 
 
 ## Introduction
 
-This repository presents a collection of homework delivered within the accedemic year 2024-2025. Navigate into the folders to see the projects and exercises.
+This repository presents a collection of homework and exams delivered within the accedemic year 2024-2025. Navigate into the folders to see the projects and exercises.
 
 ## Features 
 
 - **Homework01**: Implementation of a SparseMatrix using C++.
 - **Homework02**: Scientific Toolbox using C++, divided in submodules with extern libraries.
 - **Homework03**: Implementation of the Scientific Toolbox used in Homework02, using Pybind11 and Python bindings.
+- **final_exam**: Implementation of a music library in C++, with python bindings and tests.
 
 ## Prerequisites
 
