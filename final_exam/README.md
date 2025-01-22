@@ -61,7 +61,7 @@ The goal of this framework is to design and build a database to manage music pla
 
    *cmake*
 
-   In order to build the scientific_toolbox, run the bash script that works with CMakeLists.txt
+   In order to build the module, run the bash script that works with CMakeLists.txt
 
    ```bash
    chmod +x build_project.sh
