@@ -15,7 +15,7 @@ This project contains the material for the written exam of the *Advanced Program
 
 ## Introduction
 
-The goal of this framework is to design and build a database to manage music player entities such as songs albums and playlists. Each of these will have unique attributes and behaviours but yhey also share some common functionalities.
+The goal of this framework is to design and build a database to manage music player entities such as songs albums and playlists. Each of these will have unique attributes and behaviours but they also share some common functionalities.
 
 ## Features
 
@@ -52,7 +52,10 @@ The goal of this framework is to design and build a database to manage music pla
 
 1. **Clone or Download the Repository**  
 
-   Once the repository is uploaded to GitHub, clone or download it to your local machine.
+   ```bash
+   git clone https://github.com/tavaa/ADVANCED_PROGRAMMING_24_25.git
+   cd ADVANCED_PROGRAMMING_24_25/final_exam/
+   ```
 
 2. **Build the Project and Run tests**  
 
@@ -77,6 +80,14 @@ The goal of this framework is to design and build a database to manage music pla
 
     The output in the terminal will be the interactive test developed within the `main.cpp` script.
 
+   *run test bindings*
+   
+   To exploit the C++/python bindings used in this project, you need to execute `main.py` script.
+
+    ```python
+    python main.py
+    ```
+   
 ## Implementation Choices
 
 * The framework was designed with a modular approach, separating the module functionalities into distinct classes for songs, albums, and playlists, all inheriting from a common base class `MusicEntity`. 
